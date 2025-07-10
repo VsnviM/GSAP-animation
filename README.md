@@ -25,11 +25,6 @@ This repo is aimed at learning, experimenting, and showing off creative frontend
 
 ---
 
-## 📸 Screenshots / GIFs
-
-> Add preview images or GIFs for each animation here (optional but highly recommended).
-
----
 
 ## 🚀 Getting Started
 
