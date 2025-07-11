@@ -1,0 +1,73 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1, h2,h3,h4 {
+  font-family: 'DM Serif Display', serif;
+  
+}
+
+html,body{
+    height: 100%;
+    width: 100%;
+    font-family: 'Poppins', sans-serif;
+    overflow-x: hidden;
+}
+
+
+#main{
+    height: 100%;
+    width: 100%;
+    background-image: url(https://images.unsplash.com/photo-1677506604161-be456fa68a81?q=80&w=2061&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    background-size: cover; 
+    background-position:center ;
+}
+
+#nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 35px 50px;
+    color: #1d2416;
+}
+
+#nav h2{
+    font-size: 30px;
+}
+
+#nav i{
+    font-size: 30px;
+    font-weight: 800;
+    cursor: pointer;
+
+}
+
+#page{
+    height: 100%;
+    width: 40%;
+    position: absolute;
+    background-color: #f8f6f22d;
+    top: 0;
+    right: -40%;
+    backdrop-filter: blur(10px);
+    padding: 150px 70px;
+}
+
+#page h4{
+    font-size: 50px;
+    font-weight: 500;
+    margin-bottom: 15px;
+    color: #1d2416;
+}
+
+#page i{
+    position: absolute;
+    top: 5%;
+    right: 10%;
+    color:#1d2416 ;
+    font-size: 25px;
+    font-weight: 600;
+    cursor: pointer;
+}
