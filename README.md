@@ -20,8 +20,8 @@ This repo is aimed at learning, experimenting, and showing off creative frontend
 |----------------------|-------------------------------------|----------------------------------------------------------------------------|
 | 🚀 Custom Cursor     | [`custom-cursor/`](custom-cursor/) | A smooth animated cursor that follows the pointer and reacts on hover.     |
 | 🧠 Timeline Animation | [`timeline-animation/`](timeline-animation/) | Sequential animation using GSAP’s timeline feature.                        |
-| ✨ Stunning Text      | [`stunning-text/`](stunning-text/) | Text entry, reveal, or hover animation using GSAP + CSS.                   |
-| 📜 Scrolling Text     | [`scrolling-text/`](scrolling-text/) | Scroll-triggered animations using the `ScrollTrigger` plugin.             |
+| ✨ Stunning Text      | [`text-animation/`](text-animation/) | Text entry, reveal, or hover animation using GSAP + CSS.                   |
+| 📜 Scrolling Text     | [`scrolling-text/`](scrolling-text/) | Scroll-triggered animations without using the `ScrollTrigger` plugin.             |
 
 ---
 
@@ -68,4 +68,4 @@ Or just open the HTML file in your browser.
 ## ⭐️ Show Your Support
 
 If you find this helpful, star the repo and share it! ⭐  
-Pull requests for new animations or improvements are always welcome!
+
